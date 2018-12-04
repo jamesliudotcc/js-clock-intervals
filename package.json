@@ -1,0 +1,19 @@
+{
+  "name": "js-clock-intervals",
+  "version": "0.0.1",
+  "description": "Clock intervals exercise",
+  "main": "clock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesliudotcc/js-clock-intervals.git"
+  },
+  "author": "James Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesliudotcc/js-clock-intervals/issues"
+  },
+  "homepage": "https://github.com/jamesliudotcc/js-clock-intervals#readme"
+}
